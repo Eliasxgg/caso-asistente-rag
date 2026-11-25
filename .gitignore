@@ -1,0 +1,18 @@
+# Este repositorio solo contiene documentación y capturas seleccionadas.
+.env
+.env.*
+.local/
+.data/
+.work/
+*.key
+*.pem
+*.sqlite*
+*.sql
+*.pdf
+*.log
+*.pbix
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
